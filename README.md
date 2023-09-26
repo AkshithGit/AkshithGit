@@ -11,7 +11,7 @@
 - 🛡️ Monitoring & Logging: Prometheus, Grafana, ELK Stack
 - 🤖 Automation: Ansible
 - 📝 Scripting: Python, Shell
-- 💻 Programming Languages: JavaScript, Python
+
 
 📚 Lifelong learner, tech explorer, and Cloud environment enthusiast.
 
